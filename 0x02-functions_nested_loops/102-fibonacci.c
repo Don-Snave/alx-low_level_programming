@@ -1,9 +1,12 @@
+/*
+* File: 101-natural.c
+* Auth: Evans
+*/
 #include <stdio.h>
 
-
-/*
-* main - Prints first 50 Fibonacci numbers, starting with 1 and 2,
-*        separated by a comma followed by a space.
+/**
+* main - Lists all the natural numbers below 1024 (excluded)
+*        that are multiples of 3 or 5.
 *
 * Return: Always 0.
 */
